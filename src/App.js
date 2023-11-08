@@ -50,7 +50,7 @@ function App() {
        {toggled ? <Ingredients 
       data = {ingredients}/> : undefined}
       </div>
-      <div className ='allButtonContainer'>
+      <div className ='allButtonContainer' >
       <div className='buttonContainer'>
         <Button 
         id = 'button1'
